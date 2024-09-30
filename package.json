@@ -1,0 +1,26 @@
+{
+  "name": "3erd",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+  },
+  "type": "commonjs",
+  "main": "./src/index.ts",
+  "keywords": [
+  ],
+  "homepage": "https://github.com/nickfrosty/3erd-sdk#readme",
+  "bugs": {
+    "url": "https://github.com/nickfrosty/3erd-sdk/issues"
+  },
+  "repository": {
+    "name": "nickfrosty/3erd-sdk",
+    "type": "git",
+    "url": "https://github.com/nickfrosty/3erd-sdk"
+  },
+  "contributors": [
+    {
+      "name": "Nick Frostbutter",
+      "url": "https://github.com/nickfrosty"
+    }
+  ]
+}
